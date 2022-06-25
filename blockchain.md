@@ -19,6 +19,7 @@
 # Ethereum
 
 [Ethereum Docs](https://ethereum.org/en/developers/docs/)
+[EVM Illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 ## Proof-of-Stake
 
@@ -33,8 +34,6 @@
 [Truffle Suite](https://trufflesuite.com/)
 
 [Solidity](https://soliditylang.org/)
-
-[Gas](https://ethereum.org/en/developers/docs/gas)
 
 ## NFTs
 [NFTs](https://ethereum.org/en/nft/#content)
