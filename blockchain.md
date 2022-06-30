@@ -1,6 +1,6 @@
 # Blockchain
 
-## Algorítmo de Hashing
+## Algoritmo de Hashing
 
 [Hash: o que são e como funcionam](https://www.kaspersky.com.br/blog/hash-o-que-sao-e-como-funcionam/2773/)
 
@@ -17,8 +17,8 @@
 [Whitepaper do Bitcoin](https://bitcoinwhitepaper.co/bitcoin.pdf)
 
 # Ethereum
-
 [Ethereum Docs](https://ethereum.org/en/developers/docs/)
+
 [EVM Illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 ## Proof-of-Stake
@@ -35,6 +35,8 @@
 
 [Solidity](https://soliditylang.org/)
 
+[Moralis](https://moralis.io/)
+
 ## NFTs
 [NFTs](https://ethereum.org/en/nft/#content)
 
@@ -42,6 +44,6 @@
 
 ## Conteudo extra
 
-[ETH.Build](https://eth.build/)
+[ETH.Build (Sandbox de Blockchain)](https://eth.build/)
 
 [Blockchain e Ethereum usando ETH.Build](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
