@@ -1,0 +1,7 @@
+- name: snk
+  uses: Platane/snk@v2.1.0
+  with:
+    github_user_name: ${{ github.repository_owner }}
+  outputs: |
+    dist/github-snake.svg
+    dist/github-snake-dark.svg?palette=github-dark
