@@ -7,4 +7,4 @@
 
 Welcome to my profile! I'm a CS student, rust lover, low-level coder and aspiring teacher. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/pedrosantayana/)!
 
-![GitHub Snake dark](https://raw.githubusercontent.com/pedrosantayana/pedrosantayana/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![GitHub Snake dark](https://raw.githubusercontent.com/pedrosantayana/pedrosantayana/output/github-contribution-grid-snake-dark.svg)
