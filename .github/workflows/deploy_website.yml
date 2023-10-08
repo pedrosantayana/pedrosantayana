@@ -29,9 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      - name: Checkout to website branch
-        run: git checkout website
+        uses: actions/checkout@v4
+        with:
+          ref: website
       - name: Set up Bun
         uses: oven-sh/setup-bun@v1
       - name: Install dependencies
