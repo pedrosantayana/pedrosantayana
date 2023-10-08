@@ -6,5 +6,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedrosantayana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedrosantayana@gmail.com)](mailto:pedrosantayana@gmail.com)
 
 Welcome to my profile! I'm a CS student, rust lover, low-level coder and aspiring teacher. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/pedrosantayana/)!
-
-![GitHub Snake dark](https://raw.githubusercontent.com/pedrosantayana/pedrosantayana/output/github-contribution-grid-snake-dark.svg)
